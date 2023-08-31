@@ -1,6 +1,3 @@
 [submodule "sub_proj"]
 	path = sub_proj
 	url = git@github.com:bruce1408/sub_proj.git
-[submodule "awesome-python-cn"]
-	path = awesome-python-cn
-	url = git@github.com:bruce1408/awesome-python-cn.git
