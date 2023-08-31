@@ -4,3 +4,6 @@
 [submodule "ConfigurationFiles"]
 	path = ConfigurationFiles
 	url = git@github.com:bruce1408/ConfigurationFiles.git
+[submodule "awesome-python-cn"]
+	path = awesome-python-cn
+	url = git@github.com:bruce1408/awesome-python-cn.git
