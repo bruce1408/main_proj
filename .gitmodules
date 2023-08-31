@@ -1,3 +1,6 @@
 [submodule "sub_proj"]
 	path = sub_proj
 	url = git@github.com:bruce1408/sub_proj.git
+[submodule "ConfigurationFiles"]
+	path = ConfigurationFiles
+	url = git@github.com:bruce1408/ConfigurationFiles.git
